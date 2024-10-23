@@ -102,3 +102,17 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+
+
+canvas_ribbon:
+  enable: false
+  # The size of ribbon
+  size: 150
+  # The opacity of ribbon (0 ~ 1)
+  alpha: 0.6
+  zIndex: -1
+  click_to_change: false
+  mobile: false
+
