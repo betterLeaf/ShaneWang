@@ -1,7 +1,7 @@
 ---
 title: PDCA
 date: 2024-10-28 14:53:52
-tags: [鸡汤，目标管理,个人成长]
+tags: [鸡汤，目标管理, 项目管理，个人成长]
 cover: https://i.ibb.co/SxGsTvD/stones-1994691-1280.jpg
 categories: 鸡汤
 ---
