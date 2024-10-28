@@ -6,7 +6,6 @@ cover: https://i.ibb.co/SxGsTvD/stones-1994691-1280.jpg
 categories: 鸡汤
 ---
 
-
 ## 概述
 SMART法则是一种目标设定的方法，它可以帮助个人或组织将模糊的愿望转化为明确、可执行的计划。SMART是五个英文单词首字母的缩写，分别代表：
 
