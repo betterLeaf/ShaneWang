@@ -1,7 +1,9 @@
 ---
 title: SMART法则
 date: 2024-10-28 14:32:10
-tags: [鸡汤，目标管理, 项目管理，个人成长]
+tags: 
+    - 目标管理
+    - 项目管理
 cover: https://i.ibb.co/SxGsTvD/stones-1994691-1280.jpg
 categories: 鸡汤
 ---
