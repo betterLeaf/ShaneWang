@@ -5,13 +5,13 @@ tags:
     - SSE
     - WebSocket
     - 网络协议
-cover: https://i.ibb.co/jg3cHY4/road-7773395-1280.jpg
+cover: https://i.ibb.co/Y3s2BtS/shell-9073724-1280.jpg
 categories: 网络协议
 ---
 
 
 
-SSE（Server-Sent Events）和WebSocket都是用于实现服务器与客户端之间实时通信的技术，但它们在实现方式、特点和适用场景上有着明显的区别：
+[SSE（Server-Sent Events）](https://www.ruanyifeng.com/blog/2017/05/server-sent_events.html) 和WebSocket都是用于实现服务器与客户端之间实时通信的技术，但它们在实现方式、特点和适用场景上有着明显的区别：
 
 ## 通信方向
    - SSE是单向通信，只能由服务器向客户端发送数据，不支持客户端向服务器发送数据。
