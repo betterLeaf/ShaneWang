@@ -4,7 +4,7 @@ date: 2024-10-29 08:56:10
 tags:
     - git
 
-cover: https://i.ibb.co/s1yY2Px/cards-8594729-1280.jpg
+cover: https://i.ibb.co/YfBqspD/banner-2.png
 categories: git
 ---
 

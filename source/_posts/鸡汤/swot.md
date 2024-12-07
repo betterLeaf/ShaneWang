@@ -4,7 +4,7 @@ date: 2024-10-29 10:32:22
 tags: 
     - 团队管理
     - 项目管理
-cover: https://i.ibb.co/SxGsTvD/stones-1994691-1280.jpg
+cover: https://i.ibb.co/qWZFtDc/banner.png
 categories: 鸡汤
 ---
 
