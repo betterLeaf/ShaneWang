@@ -2,24 +2,10 @@
 title: 折腾文档合计
 date: 2024-11-01 08:27:24
 tags: 
-    - 日常
-    - Router
-    - 梅林固件
-    - 圈X
-    - surge
+    - TV
 cover: https://i.ibb.co/SxGsTvD/stones-1994691-1280.jpg
 categories: 日常生活
 ---
-
-## 资源网站
-[坤哥资源](https://guankan.tk/)
-
-
-
-
-## 路由器
-[路由器交流论坛](https://www.koolcenter.com/)
-
 
 ## TV
 [OK影视](https://down.fongmi.eu.org/)
@@ -30,14 +16,3 @@ categories: 日常生活
 
 ### 代理
 [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
-
-## 圈X
-[yFamily](https://whatshub.top/)
-[规格合集](https://whatshub.top/quantumultx)
-[入门教程](https://cxkun.com/429/)
-[入门教程2](https://quantumultx.org/)
-
-
-
-## surge
-[入门](https://wiki.surge.community/)
