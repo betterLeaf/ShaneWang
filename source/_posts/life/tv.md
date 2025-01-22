@@ -1,5 +1,5 @@
 ---
-title: 折腾文档合计
+title: TV 
 date: 2024-11-01 08:27:24
 tags: 
     - TV 
@@ -13,8 +13,8 @@ categories: 日常生活
 [爱壹帆](https://www.yfsp.tv/)
 [tvbox](https://github.com/noimank/tvbox)
 [tvbox2](https://github.com/qist/tvbox)
-[选购](https://tvlabs.cn/index)
-[论坛](https://www.znds.com/)
+[tvlabs](https://tvlabs.cn/index)
+[智能电视网](https://www.znds.com/)
 [网飞](https://www.apkmirror.com/apk/netflix-inc/netflix-android-tv/netflix-android-tv-11-0-9-release/)
 
 
