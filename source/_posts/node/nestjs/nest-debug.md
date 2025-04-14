@@ -4,7 +4,7 @@ date: 2024-11-02 15:07:49
 tags:
     - node
     - nestjs
-cover: https://i.ibb.co/SxGsTvD/stones-1994691-1280.jpg
+cover: https://i.ibb.co/jZVD0dgd/nest-big-logo.png
 categories: 后端开发
 ---
 
